@@ -1,0 +1,23 @@
+{
+  "name": "googlemaps",
+  "version": "1.0.0",
+  "description": "react application using googlemap api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "dependencies": {
+  	"react": "*",
+  	"react-dom": "*",
+  	"react-google-dom": "*"
+  },
+  "devDependencies": {
+  	"babel-core": "*",
+  	"babel-loader": "*",
+  	"babel-preset-es2015":"*",
+  	"babel-preset-react": "*",
+  	"webpack":"*"
+  }
+}
