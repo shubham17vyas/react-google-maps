@@ -3,8 +3,8 @@ import React, { Component } from 'react'
 class Places extends Component{
 	render(){
 		return (
-			<div>This is Places component! </div>
-			)
+			<div>This is places.</div>
+		)
 	}
 }
 
